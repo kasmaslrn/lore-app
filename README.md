@@ -13,6 +13,6 @@ airplane mode if you don't believe us.
 4. Watch it. Export the cards. Drop them back in the gc.
 
 Something not parsing? The error sheet has a **Run the check** button —
-paste ~20 lines, run it, and send us the report it copies.
+paste ~20 lines, run it, and send the report it copies to kasma98@icloud.com.
 
 This repo holds only the built test artifact. LORE is a working title.
